@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Carousel } from 'react-bootstrap';
-import Corporate from "../../../images/corporate-2.jpg";
-import Model from "../../../images/model.jpg";
+import Model from "../../../images/arranged-marriage-759.jpg";
+import Corporate from "../../../images/corporateff.jpg";
 import video from "../../../images/video.jpg";
 
 const Banner = () => {
