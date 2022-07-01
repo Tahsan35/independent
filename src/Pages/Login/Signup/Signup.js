@@ -49,7 +49,7 @@ const Signup = () => {
                 <Form.Group className="mb-3" controlId="formBasicPassword">
                 <Form.Control ref={passwordRef} type="password" placeholder="Password" required/>
                 </Form.Group>
-                <Button variant="primary" type="submit">Submit</Button>
+                <Button variant="primary" type="submit">Sign up</Button>
                 <br />
             </Form>
                 <p>Already have an account ? <Link to="/login" className='text-danger pe-auto text-decoration-none' onClick={navigateLogin}>Please Log in</Link></p>
